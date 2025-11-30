@@ -10,6 +10,7 @@ import TeacherDashboard from "./pages/TeacherDashboard";
 import StudentDashboard from "./pages/StudentDashboard";
 import NotAllowed from "./pages/NotAllowed";
 
+
 export default function App() {
   return (
     <Routes>
